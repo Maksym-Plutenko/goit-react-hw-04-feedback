@@ -1,0 +1,16 @@
+.list {
+    margin-bottom: 40px;
+    display: flex;
+    gap: 20px;
+}
+
+.item:not(:last-child){
+    margin-bottom: 15px;
+}
+
+.button {
+    font-size: 42px;
+}
+
+
+
